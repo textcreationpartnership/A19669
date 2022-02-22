@@ -1,0 +1,327 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon made in the chappel at the Gylde Halle in London, the. xxix. day of September, 1574 before the Lord Maior and the whole state of the citie, then assembled for the chusing of their Maior that shuld then succede in the gouernme[n]t of the same citie. Concionatore Roberto Croleo. Perused and licenced, according to the Queenes Maisties iniunction.</title>
+            <author>Crowley, Robert, 1518?-1588.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1575</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19669</idno>
+            <idno type="STC">STC 6092</idno>
+            <idno type="STC">ESTC S120719</idno>
+            <idno type="EEBO-CITATION">99855913</idno>
+            <idno type="PROQUEST">99855913</idno>
+            <idno type="VID">21421</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19669)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 21421)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 378:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon made in the chappel at the Gylde Halle in London, the. xxix. day of September, 1574 before the Lord Maior and the whole state of the citie, then assembled for the chusing of their Maior that shuld then succede in the gouernme[n]t of the same citie. Concionatore Roberto Croleo. Perused and licenced, according to the Queenes Maisties iniunction.</title>
+                  <author>Crowley, Robert, 1518?-1588.</author>
+               </titleStmt>
+               <extent>[54] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Iohn Awdeley,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1575.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A-G⁴ (-G4, blank?).</note>
+                  <note>Reproduction of the original in the Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:21421:1"/>
+            <pb facs="tcp:21421:1"/>
+            <p>A Sermon <hi>made in the Chappel</hi> at the Gylde Halle in <hi>London, the .xxix. day of</hi> Sep<g ref="char:EOLhyphen"/>tember, 1574. before the <hi>Lord Maior and the whole ſtate of</hi> the Citie, then aſſembled for the chuſing of their Maior that ſhuld then ſuccede in the gouernme<g ref="char:cmbAbbrStroke">̄</g>t of the ſame Citie. <hi>Conei<g ref="char:EOLhyphen"/>onatore Roberto Croleo.</hi>
+            </p>
+            <p>¶ <hi>Peruſed and licenced, accor<g ref="char:EOLhyphen"/>ding</hi> to the Quoenes <hi>Ma<g ref="char:EOLhyphen"/>ieſties Iniunction.</hi>
+            </p>
+            <p>¶ Imprinted at Lon<g ref="char:EOLhyphen"/>don <hi>by Iohn Awdeley.</hi> 1575</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:21421:2"/>
+            <pb facs="tcp:21421:2"/>
+            <head>TO THE RIGHT honorable ſir Iames Hawes <hi>Knight, Lord Maior of the</hi> Citie of London, and to his worſhipful <hi>Brethren the Aldermen, with</hi> the whole ſtate of the ſame Citye, Robert Crowley <hi>wiſheth con<g ref="char:EOLhyphen"/>tinuance in the feare of</hi> GOD.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Eing by the Lord Maior (that then was) appoin<g ref="char:EOLhyphen"/>ted to occupy the place of a better, in your Chappell at the Gilde hall, on that day wherin; according to your yearely cuſtome you were gathered to<g ref="char:EOLhyphen"/>gether to make choyſe of one to rule your Citie, for the yeare then to come: I dyd bende all my ſpeeches to the
+<pb facs="tcp:21421:3"/> inſtruction of as many of you as were to geue voyces in that Election, and of him that was then to be elected. And al<g ref="char:EOLhyphen"/>though I dyd not then ſo well lyke of myne owne doing that I could thinke it meete to be penned and publiſhed to the view of all that would reade it: yet I per<g ref="char:EOLhyphen"/>ceiued afterward, that manye amongeſt you were deſirous to haue it in writing, that it might remaine in memory, and be a rule for you and your poſteritie to follow in yout yearely Elections. Being therefore requeſted by one (that ſeemed to mee moſt deſirous of this common commoditie) to ſet downe in writyng that which I had then ſpoken: I could not deny that ſo honeſt and reaſonable a requeſt. But beyng then oppreſſed with manyfold exerciſes, I differred the doing thereof almoſt to long: euen tyll memorie began to be amazed, when ſhe ſhould make report to my pen of thoſe wordes which ſhe not before wylled to
+<pb facs="tcp:21421:3"/> retaine. And then I began to feele, that age cannot eaſely do that, wherof youth maketh ſmall accompt.</p>
+            <p>Yet notwythſtandyng I cauſed my Memorie to ſearche out all her corners, and to bring forth that which ſhe fou<g ref="char:cmbAbbrStroke">̄</g>d? and ſo haue I penned (as my Memorie telleth me) almoſt the ſame wordes that I then ſpake, and in the ſame order that I then did ſpeake them.</p>
+            <p>And becauſe I thought that thys in<g ref="char:EOLhyphen"/>ſtruction might ſerue as well for al other Elections, as for that which then was in hand: I thought good to adde an Appe<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>dix, wherein I haue applyed the whole matter of euery Election to be made, of any that muſt ſerue in any publike cal<g ref="char:EOLhyphen"/>ling, either Eccleſiaſticall or Ciuile.</p>
+            <p>If this my labour haue or ſhall do any good, the praiſe thereof is due to God, the doer of all that is wel done: who firſt moued the myndes of your Rulers to thinke me meete to occupy that place at
+<pb facs="tcp:21421:4"/> that tyme, and my mynde to conceyue and vtter ſuche matter there, and the minde of him that firſt moued mee to conceiue it in writing, and the myndes of them that haue thought it meete to be imprinted.</p>
+            <p>To GOD therefore eſpecially, I do dedicate this my labour, and generallye to all you, whom he hath herein vſed as his inſtrumentes: Beſeeching his Ma<g ref="char:EOLhyphen"/>ieſtie to accept of that which hee hath made me able to do, and to employ both it and mee to the commoditie of hys Church, and you to take at hys hande the fruit of this my labour, whom hee hath in this matter vſed as his inſtrume<g ref="char:cmbAbbrStroke">̄</g>t to inſtruct you how ye ought to deale, not onely in this one yearelye election of your Maior, but in all your other E<g ref="char:EOLhyphen"/>lections alſo.</p>
+            <p>The Lord Ieſus Chriſt (whoſe Ser<g ref="char:EOLhyphen"/>uauntes we all do profeſſe to be) direct vs by his holy Spirite: that in all our
+<pb facs="tcp:21421:4"/> workes, words, and thoughtes we may ſeeke to ſet foorth the glorie of his (and by him) our heauenly Father. To whom, with the ſame his onely begotten ſonne, &amp; the holy ſpirit be al honor &amp; glo<g ref="char:EOLhyphen"/>ry for euermore. Amen.</p>
+            <closer>
+               <signed>Yours to com<g ref="char:EOLhyphen"/>maund in the Lord, Robert Crowley.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:21421:5"/>
+            <pb facs="tcp:21421:5"/>
+            <head>¶ <hi>A Sermon made in the</hi> Chappel at the Gilde hall in <hi>London, the .xxix. day of September, in</hi> the yeare of our Lord God. 1574. before the Lord Maior and the whole ſtate of the Citie, then aſſembled for the chu<g ref="char:EOLhyphen"/>ſing of their Maior that ſhould then ſuccéede in the gouern<g ref="char:EOLhyphen"/>ment of that Citie: <hi>Con<g ref="char:EOLhyphen"/>cionatore Roberto Croleo.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>N the Pſalme. 139. it is written thus,<note place="margin">Pſal. 139</note> in the lat<g ref="char:EOLhyphen"/>ter ende of the Pſalme: <hi>Do not I hate the<g ref="char:cmbAbbrStroke">̄</g> (O Lord) that hate thee? And am not I greeued with them that riſe vp againſt thee? Yea I hate them right ſore: euen as though they were myne own enemies. Try me (O God) and ſeeke the ground of my hart: Proue mee, and examyne my thoughtes. Looke well if there be any way of wickednes in me, and leade me in the way euerlaſting.</hi>
+            </p>
+            <p>That Pſalme (dearely beloued in
+<pb facs="tcp:21421:6"/> our ſauiour Chriſt) in the latter end wherof theſe foure verſes are writ<g ref="char:EOLhyphen"/>ten, being in number .139. is one of thoſe Pſalmes, which are by order appointed to be read this mornyng at the Mornyng prayer: I haue thought good therfore to take a par<g ref="char:EOLhyphen"/>cell thereof to entreate of, as offe<g ref="char:EOLhyphen"/>red by order.</p>
+            <p>The Prophet Dauid doth in this Pſalme ſhew him ſelfe to be mynd<g ref="char:EOLhyphen"/>full of the maruelous and mercyful prouidence of God towardes al his creatures: but eſpecially towardes Man: in whoſe creation, preſer<g ref="char:EOLhyphen"/>uation and gouernment, hee doth ſhew both his infinite wyſedome, and almighty power.</p>
+            <p>He ſheweth hym ſelfe alſo to bee myndeful of the infinite and incom<g ref="char:EOLhyphen"/>prehenſible nature of God, whych ca<g ref="char:cmbAbbrStroke">̄</g>not be comprehended in heauen, or earth, or in any deepe places: but fylleth all places, and is fylled or
+<pb facs="tcp:21421:6"/> comprehended of none. He fylleth all, and contayneth all: and is not filled or contayned of any. If I go vp into heauen (ſayth he) thou art there: if I go downe into hel, thou art there to: Yea, if I ſhall take the winges of the morning (that is, if I ſhal make as much ſpeede as ma<g ref="char:cmbAbbrStroke">̄</g> can make to flee from thee) and ſo flee into the vttermoſt parts of the ſea, euen there alſo thy hand ſhall leade me, and thy right hand ſhall hold me. Whether ſhall I go from thy ſpirit, and whither ſhall I flee from thy preſence?</p>
+            <p>He ſheweth alſo, how he eſtemeth of the deare friendes of God, and on the contrary, how he doth hate &amp; abhorre Gods enemies: ſuch as do hate and riſe vp againſt God.</p>
+            <p>Thus you haue hearde a briefe ſumme of this whole Pſalme: that is, of the chiefe pointes co<g ref="char:cmbAbbrStroke">̄</g>tayned in this Pſalme, being in number .139.</p>
+            <pb facs="tcp:21421:7"/>
+            <p>I do not entende (at this time) to entreate of all theſe thinges, or of any one of them: but to apply theſe foure verſes (which I haue nowe read, being the laſt of this Pſalme) vnto this preſent Auditory, and to the preſent occaſio<g ref="char:cmbAbbrStroke">̄</g> of this aſſemble. For I thinke it the duty of as ma<g ref="char:EOLhyphen"/>ny as ſhall occupye ſuch places as this, to apply all their ſpeeches to their Auditories, and to the occa<g ref="char:EOLhyphen"/>ſions of their aſſembling.</p>
+            <p>Conſidering therefore that thys Auditory is aſſembled to chuſe one to rule the reſt: I haue thought it meete to apply the woordes of the Prophet in theſe foure laſt verſes of this Pſalme, to them that be aſ<g ref="char:EOLhyphen"/>ſembled, and to the preſent occaſi<g ref="char:EOLhyphen"/>on of aſſemblyng.</p>
+            <p>And herein I muſt ſpeake of a<g ref="char:EOLhyphen"/>nother manner of hatred then the Prophet ment of in theſe wordes, when he ſaith: <hi>Haue not I hated them
+<pb facs="tcp:21421:7"/> that hate thee. &amp;c.</hi> And I am occaſio<g ref="char:EOLhyphen"/>ned ſo to do by that which I reade in the firſt chapter of the booke of prophecies of <hi>Malachie</hi> the prophet, where it is wrytten thus:<note place="margin">Mala. 1.</note> 
+               <hi>Iacob haue I loued, but Eſau haue I hated.</hi>
+            </p>
+            <p>It is not ment here, that y<hi rend="sup">e</hi> Lord hated <hi>Eſau</hi> wyth that hatred that Dauid ſpeaketh of in theſe wordes of the Pſalme whych I haue in hand: but that he did ſo hate him, that he would not chuſe hym to be Lord ouer hys brethren, notwith<g ref="char:EOLhyphen"/>ſtanding that by nature the birth<g ref="char:EOLhyphen"/>right dyd belong vnto hym, for he was the elder and the firſt borne.</p>
+            <p>And <hi>Iacob</hi> hee loued ſo, that not<g ref="char:EOLhyphen"/>withſtanding he was the younger, the honour of birthright was ge<g ref="char:EOLhyphen"/>uen vnto hym, and hee was made Lord ouer his brethren.</p>
+            <p>After this ſort alſo dyd the Lord hate y<hi rend="sup">e</hi> elder ſonnes of Ieſſe,<note place="margin">1. Reg. 16.</note> which wer in number .vij, &amp; loued Dauid
+<pb facs="tcp:21421:8"/> that was yonger then they all: and hee commaunded Samuel to take his horne of holy oyntment, and to anoynt Dauid king ouer al Iſrael.</p>
+            <p>There was none among the bre<g ref="char:EOLhyphen"/>thren of Dauid, that was not in the iudgement of man meete to be pre<g ref="char:EOLhyphen"/>ferred before Dauid, and therefore their father preſented them to Sa<g ref="char:EOLhyphen"/>muel one after another, and ſhewed him ſelfe to make none accompt of Dauid: But the Lord ſo loued Da<g ref="char:EOLhyphen"/>uid, and hated hys brethren, that he refuſed them, and choſe Dauid to be king ouer his people.</p>
+            <p>Applying thys ſcripture to you that be preſe<g ref="char:cmbAbbrStroke">̄</g>t therfore, I muſt firſt ſpeake of this hatred and this loue: admoniſhing as many of you as are to geue voyces in this election, that you hate with this hatred of refu<g ref="char:EOLhyphen"/>ſal, all ſuch as you ſee to haue in the<g ref="char:cmbAbbrStroke">̄</g> thoſe conditions as ſhould not bee in any that ſhould be choſe<g ref="char:cmbAbbrStroke">̄</g> to beare
+<pb facs="tcp:21421:8"/> rule among the people of God, and that you loue with thys loue that I haue ſpoken of, ſuch one as hath in hym thoſe thynges that by the ſcriptures are required to be in him that ſhall be choſen to be a Ruler.</p>
+            <p>Firſt,<note place="margin">Deut. 17</note> in the fyft booke of Moſes called <hi>Deuteronomium</hi> it is written that the people of Iſrael might not chuſe any to be their king, that wer not their brother: that is, deſcen<g ref="char:EOLhyphen"/>ded out of the loynes of Abraham, and one of the twelue kynreds of Iſraell, A man circumciſed, that therby had made a ſolemne profeſ<g ref="char:EOLhyphen"/>ſion to obſerue &amp; keepe all y<hi rend="sup">e</hi> lawes and ſtatutes of the Lord hys God.</p>
+            <p>If that people myght not make them a Ruler of one that were not a brother by bloud and Religion: how may we that profeſſe the reli<g ref="char:EOLhyphen"/>gion of Chriſt, chuſe one to be our Ruler that is not of one religion wyth vs?</p>
+            <pb facs="tcp:21421:9"/>
+            <p>You therefore, to whom it belon<g ref="char:EOLhyphen"/>geth to geue voyces in this electio<g ref="char:cmbAbbrStroke">̄</g>, muſt haue regard to the religion of him whom you ſhal chuſe. He muſt not be an Athiſte (that is, a ma<g ref="char:cmbAbbrStroke">̄</g> that hath no religion) hee muſt not be a ſectary, an hereticke, or ſiſmaticke. He muſt not be a Papiſt: for of all Sectaries the Papiſt is moſt con<g ref="char:EOLhyphen"/>trary to Chriſt: I meane the right Papiſt, who doth acknowledge the Pope to bee the vniuerſall head of the vniuerſall church of Chriſt, for that is, to ſet the Pope in the ſeate of Chriſt, and ſo conſequently to de<g ref="char:EOLhyphen"/>poſe Chriſt, and to ſet vp the Pope in hys place, and ſo is hee become Antichriſt.</p>
+            <p>S. Paule in the .2. chapter of his ſecond Epiſtle to the <hi>Theſſalonians,</hi> doth lyuely deſcribe this Antichriſt vnder the name of the man of ſyn. <hi>He ſhall</hi> (ſayth S. Paule) <hi>aduaunce him ſelfe aboue all that is called God.</hi>
+               <pb facs="tcp:21421:9"/> That is, aboue all Princes.<note place="margin">Pſal. 82.</note> For in the Scriptures Princes are called Gods, becauſe they be Gods Leue<g ref="char:EOLhyphen"/>tenants vpon earth, and as ſaynt Paule doth terme them:<note place="margin">Roma. 13.</note> they are Gods reuengers, and beare the ſword, that by the vſe thereof they may reuenge Gods quarell, in pu<g ref="char:EOLhyphen"/>niſhing the tranſgreſſors and brea<g ref="char:EOLhyphen"/>kers of Gods lawes.</p>
+            <p>Of Princes the Prophet Dauid doth in the Pſalme .82. write thus in the perſon of God him ſelfe: <hi>Ego dixi Dii eſtis,</hi> I haue ſayd it, you are Gods. And our ſauiour Chriſt him ſelfe doth cite the ſame wordes,<note place="margin">Iohn. 10.</note> as we reade in the Goſpel: Wherfore, the Pope aduauncing hym ſelfe a<g ref="char:EOLhyphen"/>boue Princes, doth ſhew him ſelfe to be that man of ſynne that ſaynt Paule doth write of in that place,<note place="margin">2. Theſ. 2</note> and ſo conſequentlye to bee Anti<g ref="char:EOLhyphen"/>chriſt: for by that man of ſynne hee meaneth Antichriſt.</p>
+            <pb facs="tcp:21421:10"/>
+            <p>He ſitteth alſo in the Temple of God, and boaſteth hym ſelfe as though he were God: and this he doth in twoo poyntes eſpeciallye. Firſt, in that he taketh vpon him to diſpoſe kingdomes: &amp; then in that hee preſumeth to pardon ſynnes. For both theſe thynges belong to God alone, and no creature may en<g ref="char:EOLhyphen"/>terpriſe to do either of theſe.</p>
+            <p>
+               <note place="margin">Prouer. 8</note>
+               <hi>Per me regnant Reges</hi> (ſayth Wiſ<g ref="char:EOLhyphen"/>dome) and by Wyſedome is ment God him ſelfe. By God alone ther<g ref="char:EOLhyphen"/>fore doo Kinges raygne. And the Prophet Dauid ſaith, that promo<g ref="char:EOLhyphen"/>tion co<g ref="char:cmbAbbrStroke">̄</g>meth neither from the Eaſt nor from the Weſt, neyther from the North.<note place="margin">Pſal. 75.</note> &amp;c. but it is God that o<g ref="char:EOLhyphen"/>uerthroweth one, and ſetteth vp another.</p>
+            <p>The Pope therefore, in diſpo<g ref="char:EOLhyphen"/>ſyng kingdomes, as hee hath, and would preſently diſpoſe this kyng<g ref="char:EOLhyphen"/>dome (if his power would ſtretch
+<pb facs="tcp:21421:10"/> ſo farre) doth take vpon hym, that which belongeth to God alone, and therefore ſytting in the Church of Chriſt, which is the temple of God, he boaſteth him ſelfe as though he were God, and ſheweth hym ſelfe to be that man of ſynne that ſaynt Paule ſpeaketh of.</p>
+            <p>He taketh vpon him alſo to for<g ref="char:EOLhyphen"/>geue ſyns, which none can do but God onely. In his Buls of <hi>Iubilie</hi> theſe wordes are inſert: <hi>A pena, &amp; a culpa,</hi> that is, from the payne due to the fault, and from the fault alſo. So that he acquiteth and diſchar<g ref="char:EOLhyphen"/>geth the ſynner of the fault of hys ſinne, and maketh him as innocent as if he had neuer co<g ref="char:cmbAbbrStroke">̄</g>mitted ſynne. And herein hee maketh hym ſelfe equall, or rather ſuperiour to God him ſelfe: for no Inferiour can par<g ref="char:EOLhyphen"/>don the treſpaſſe that is committed againſt his Superiour.</p>
+            <p>If any ſubiect ſhould preſume to
+<pb facs="tcp:21421:11"/> pardon the treaſon that is co<g ref="char:cmbAbbrStroke">̄</g>mit<g ref="char:EOLhyphen"/>ted againſt his Prince: what could y<hi rend="sup">t</hi> Prince thinke of that Subiect, otherwyſe then of one that taketh him ſelfe to be of greater authority then hys Prince, or at the leaſt of as great authoritye.</p>
+            <p>By theſe two practiſes therfore, the Pope maketh him ſelf knowen to as many as wyll know hym, to be that Antichriſt, whom S. Paul calleth the man of ſynne. And ſo by good conſequence, whoſoeuer is a right Papiſt, is moſt vnmeete to rule amongeſt Chriſtians.</p>
+            <p>You therfore, to whom it belon<g ref="char:EOLhyphen"/>geth to geue voyces in this electi<g ref="char:EOLhyphen"/>on, looke wel to the religion of him whom you chuſe, &amp; if any be a Pa<g ref="char:EOLhyphen"/>piſt, ſo hate him as God hated <hi>Eſau</hi> and <hi>Dauids</hi> elder brethren, that you refuſe hym, and chuſe hym not to rule you, becauſe hee is not a Bro<g ref="char:EOLhyphen"/>ther, &amp; therfore much more vnmete
+<pb facs="tcp:21421:11"/> to rule Chriſtians, then any ſuche was to rule the carnall Iſraelites.</p>
+            <p>In the ſeconde booke of Moſes called <hi>Exodus,</hi>
+               <note place="margin">Exod. 18.</note> and in the .18. chapter of that booke, it is writte<g ref="char:cmbAbbrStroke">̄</g>, that ſuch one as ſhal be choſen to rule in any degree, muſt haue in him theſe four qualities: Firſt he muſt be wyſe &amp; actiue, then hee muſt haue in hym the feare of God: thirdly, he muſt be a true man, and laſt of all hee muſt hate couetouſnes.</p>
+            <p>Wyſe he muſt be, ſuch one as by long experience hath learned wiſe<g ref="char:EOLhyphen"/>dome, and is able to rule wyſely: &amp; there muſt be in him ſuch actiuity, as is meete for him that ſhal occu<g ref="char:EOLhyphen"/>py the place y<hi rend="sup">t</hi> he ſhal be choſe<g ref="char:cmbAbbrStroke">̄</g> vnto.</p>
+            <p>He muſt haue in him the feare of God alſo,<note place="margin">Pſal. 111.</note> which is the beginnyng of all wyſedome. By this note may we know them that haue the feare of God in them:<note place="margin">Eccleſi. 2.</note> they wyl (as <hi>Ieſus Siracke</hi> writeth) be careful to know
+<pb facs="tcp:21421:12"/> the wyll of God: and when they know it, they wyll be as careful to conforme their lyues vnto it, that the feare of God maye appeare in all that they do.</p>
+            <p>This feare is not that whereof ſ. Iohn<note place="margin">1. Iohn. 4.</note> writeth in his firſt epiſtle, when he ſayth, that loue expelleth feare: for that feare is ioyned with hatred, and whoſoeuer feareth in that ſorte, muſt needes hate hym whom he ſo feareth, and that feare is of the ſchole men called, a ſeruile feare, ſuch as is in ſlaues or bonde men, that ſtand in feare of ſtripes at the handes of their Lordes or Maiſters, whoſe ſlaues they bee. But this is by the ſcohle men ter<g ref="char:EOLhyphen"/>med <hi>Filialis timor,</hi> a childlike feare: ſuch as is in good childre<g ref="char:cmbAbbrStroke">̄</g> towards their good and louyng Parentes: whom they feare becauſe they loue them, and they loue them becauſe they feare them. So that this feare
+<pb facs="tcp:21421:12"/> is ioyned with loue, and loue with it, in ſuch ſorte that they cannot be ſeperated, and it cannot be hid, but wil ſhew it ſelfe wherſoeuer it is.</p>
+            <p>Looke therefore for theſe ſignes of Gods holy feare, and hate that perſon in whom you finde the<g ref="char:cmbAbbrStroke">̄</g> not, ſo that ye chuſe him not to rule you.</p>
+            <p>Thirdly, ye muſt not chuſe hym, whom you know not to bee a true man: true in his deedes, and true in his words. His yea muſt be yea, and his nay, nay. He muſt not ſay and vnſay, he muſt not ſweare to diſceiue. His wordes muſt not be winde, but ther muſt be waight in them. He muſt not do (as to many vſe to do in theſe daies) deny both his words &amp; his writing (if ye can not proue it) though it be his hand &amp; his ſeale, yet if he may gayne any thing by denying it to be his dede, it was neuer hys deede. Woulde God there were none ſuche to bee
+<pb facs="tcp:21421:13"/> found in Iſrael, (I meane) among Chriſtians.</p>
+            <p>Laſt of all, he that muſt be choſen to beare rule, muſt bee a man that hateth couetouſnes. The common ſort of men haue none other note to know a couetous man by, but ryt<g ref="char:EOLhyphen"/>ches. If he be ritch, then is he co<g ref="char:EOLhyphen"/>uetous, in the iudgement of moſt men. But ritches is not a note to know a couetous man by. Ritches is the gyft of God: and it is not a mans carefull toyle that can make hym ritch,<note place="margin">Prou. 10.</note> as ſayth the wyſe man, much leſſe is it hys couetous dea<g ref="char:EOLhyphen"/>lyng, but God geueth ritches to whom he luſteth. He maketh ſome ritch wythout anye great care or toyle taken of them to grow ritch: and ſome other, though they toyle neuer ſo ſore, and be neuer ſo care<g ref="char:EOLhyphen"/>full, yet can they neuer be ritch. It is therfore Gods bleſſing that ma<g ref="char:EOLhyphen"/>keth men ritch. Wherfore this rea<g ref="char:EOLhyphen"/>ſon
+<pb facs="tcp:21421:13"/> holdeth not: he is ritch there<g ref="char:EOLhyphen"/>fore he is couetous.</p>
+            <p>The Greekes do cal couetouſnes <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a deſire of more.<note place="margin">Luke. 12.</note> That man therefore that is not conten<g ref="char:EOLhyphen"/>ted with that he hath, but is ſtyll deſyrous of more, is a couetous man. For <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is the deſire of more, and it is an affection of the mynde, and may be as well in the poore as in the ritch.</p>
+            <p>Whereſoeuer therefore you ſhal ſee open ſygnes of thys deſire of more, there is couetouſnes. And that man in whom that is, muſt be ſo hated of you that haue to geue voyces in this election, y<hi rend="sup">t</hi> you chuſe him not to beare rule.<note place="margin">Eccle. 10.</note> For ſuch one hath his own ſoule to ſel for mony.</p>
+            <p>Saint Paule would haue thys deſire of more, to be ſo far from all Chriſtians,<note place="margin">Epheſi. 5.</note> that it ſhould not once be named amongeſt them, that is, that it ſhould not be found amongſt
+<pb facs="tcp:21421:14"/> them, and ſo conſequently haue no name, for thinges that be not haue no names. And writing to Timo<g ref="char:EOLhyphen"/>thie he ſaith,<note place="margin">Tim. 6.</note> that the loue of mo<g ref="char:EOLhyphen"/>ney, is the roote of all miſchiefe.</p>
+            <p>Of the fruites that ſpring out of this peſtilent roote much might be ſpoken, &amp; many examples brought out of hiſtories, both holy and pro<g ref="char:EOLhyphen"/>phane: But becauſe the tyme paſ<g ref="char:EOLhyphen"/>ſeth away, and I haue determined to ſpeake ſomewhat of the dutye of hym that ſhall bee choſen, I wyll make mention onelye of two exam<g ref="char:EOLhyphen"/>ples, the one prophane, &amp; the other written in the hiſtory of y<hi rend="sup">e</hi> Goſpell.</p>
+            <p>For the firſt, it is wrytten that <hi>Polymneſtor</hi> king of <hi>Thraſia,</hi> was of great familiaritie, &amp; ioyned in ſyn<g ref="char:EOLhyphen"/>guler friendſhip with king <hi>Priamus</hi> of <hi>Troy:</hi> and that when <hi>Troy</hi> was beſeeged by the Grecians, and like to be woon by them, kyng <hi>Priamus</hi> ſent hys young ſonne <hi>Polydorus</hi> to
+<pb facs="tcp:21421:14"/> 
+               <hi>Polymneſtor</hi> with a great maſſe of gold, truſting that of friendſhip he would foſter and bring vp the yong Prince, and helpe hym to recouer the kyngdome of <hi>Troy,</hi> if it ſhould at that time be woon by the Greci<g ref="char:EOLhyphen"/>ans. But when <hi>Polymneſtor</hi> per<g ref="char:EOLhyphen"/>ceiued that <hi>Priamus</hi> was dead, and <hi>Troy</hi> conquered, he ſlew <hi>Polydorus,</hi> and ſo poſſeſſed the gold hym ſelfe. The Poet <hi>Virgill</hi> writing of thys, vſeth this exclamation: <hi>Quid non mortalia cogis pectora, auri ſacra fames?</hi> O thou peſtilent hunger of golde, what is it that thou doeſt not en<g ref="char:EOLhyphen"/>force mens hartes to do?</p>
+            <p>The other example is wrytten in the hiſtory of the Goſpell. The traitour Iudas, notwithſtanding he had ſene the wonderful workes y<hi rend="sup">t</hi> our ſauiour Chriſt had wrought, and heard hys heauenly doctrine: yet in a couetous deſire he betraied him, and for money deliuered him
+<pb facs="tcp:21421:15"/> into the handes of thoſe enemies that ſought his lyfe. Such fruites doth thys peſtilent roote bryng forth, and therefore ſuch as are to geue conſent in this election, ſhuld not agree to chuſe ſuch one to rule, as hath in him the open ſygnes of this ſo peſtilent a roote.</p>
+            <p>Thus brieflye you haue hearde what is required in him that muſt be choſen to beare rule: He muſt be a brother, not of no religion, ney<g ref="char:EOLhyphen"/>ther of any other religion, then the true religion of Chriſt. For if the Iewes myght not make any man ruler ouer them that was not of their religio<g ref="char:cmbAbbrStroke">̄</g>: much leſſe may Chri<g ref="char:EOLhyphen"/>ſtians make that man their Ruler, that is not one of their religion.</p>
+            <p>He muſt be a wyſe &amp; actiue man, ſuche one as hath had experience, and is well able to gouerne, beyng endued wyth all thoſe giftes that muſt be vſed in gouernment. If he
+<pb facs="tcp:21421:15"/> haue gouerned hym ſelfe and hys own familye well: then is hee the meeter to rule other. But if this be not in hym, then is hee altogether vnmeete to be choſen to publike go<g ref="char:EOLhyphen"/>uernment.</p>
+            <p>It is alſo requiſite that he haue in him the feare of God, in ſuch ſort as I haue declared. Not that feare that is ioyned wyth hatred, but y<hi rend="sup">t</hi> which is matched with loue: So that he doth feare God, becauſe he loueth him, and doth loue him be<g ref="char:EOLhyphen"/>cauſe hee feareth hym,<note place="margin">Eccleſi. 2.</note> and wyth a reuerend and louing feare ſeeketh to do the wyll of God.</p>
+            <p>Moreouer, he muſt be a true ma<g ref="char:cmbAbbrStroke">̄</g>, no falſe, no ſubtile, or crafty dealer: but ſuche one as dealeth trulye in word and deede. And to conclude, he muſt (euen from his very hart) hate that peſtilent roote couetouſ<g ref="char:EOLhyphen"/>nes. And thus much for that which I thought meete to ſpeake, touch<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:21421:16"/> that which is to be done by the<g ref="char:cmbAbbrStroke">̄</g> that haue to geue voyces in thys election.</p>
+            <p>Now as touching him that ſhal be choſen, he muſt looke vpon the example of <hi>Dauid,</hi> to follow it. He ſayth, <hi>Do not I hate them (O Lord) that hate rhee? And am not I greeued with them that ryſe vp againſt thee? Yea I hate them, and that right ſore: euen as though they were myne own enemies. Try me (O God) and ſeeke the ground of my hart: proue me, and examine my thoughtes. Looke well if there be any way of wickednes in me, and leade me in the way euerlaſting.</hi>
+            </p>
+            <p>Thys example of the Prophet <hi>Dauid</hi> doth teach hym that ſhall be choſen, eſpecially two leſſo<g ref="char:cmbAbbrStroke">̄</g>s: wher of the one is how he muſt be affec<g ref="char:EOLhyphen"/>ted towardes them that hate the Lord, and riſe vp againſt him: and the other is, what he ſhould conti<g ref="char:EOLhyphen"/>nually craue at Gods hand in hys
+<pb facs="tcp:21421:16"/> harty and earneſt prayers to God.</p>
+            <p>For the firſt he ſaith, <hi>Do not I hate them that hate thee? &amp;c.</hi> And for the other he ſaith: <hi>Try me (O God) and ſeeke the ground of myne hart. &amp;c.</hi>
+            </p>
+            <p>In the ſcriptures they are ſayd to hate the Lord that geue anye part of his honor to any creatures: as in that commaundement wher<g ref="char:EOLhyphen"/>in the Lord forbiddeth idolatry, he ſayth thus:<note place="margin">Exod. 20.</note> 
+               <hi>I wyll viſit the ſyns of the Fathers vpon the children, to the third and fourth generation in them that hate me. &amp;c.</hi> where they that breake that commaundement either in making or worſhipping of any Image, are ſayd to hate God, becauſe they put that image in the place of God, and geue that honour to it, whych is due to God.</p>
+            <p>The Prophet <hi>Dauid</hi> alſo calleth ſuche ſynners, when in the fiftith Pſalme hee ſayth thus:<note place="margin">Pſal. 50.</note> 
+               <hi>The Lord ſayd vnto the ſinner, why takeſt thou
+<pb facs="tcp:21421:17"/> my teſtament in thy mouth, ſeing thou hateſt to be reformed, and thou haſt caſt my word behinde thee. Thou ſaweſt a theefe, and thou ranneſt with him, and with the adulterer thou dyddeſt caſt in thy lot. &amp;c.</hi> Theſe be they that hate the Lord, becauſe they haue euen ſold them ſelues to ſerue ſinne, and muſt therefore needes hate him, a<g ref="char:EOLhyphen"/>gainſt whom they commit ſynne.</p>
+            <p>The example of the Prophet <hi>Da<g ref="char:EOLhyphen"/>uid</hi> therefore, doth teach him (that ſhal be choſen to beare rule) to hate all ſuch maner of men as theſe be: that is, that do geue them ſelues to ſerue ſynne, and wyll not be refor<g ref="char:EOLhyphen"/>med by any maner admonition or fatherly chaſticement.</p>
+            <p>He muſt hate them therfore, not with ſuch hatred as I haue ſpoken of (that is, to refuſe them in electi<g ref="char:EOLhyphen"/>ons) but with perfect hatred, euen as though they were his own ene<g ref="char:EOLhyphen"/>mies. That is, euen as by the cor<g ref="char:EOLhyphen"/>ruption
+<pb facs="tcp:21421:17"/> of our own nature, we are moued to hate them that bee our enemies (for by the rule of our Re<g ref="char:EOLhyphen"/>ligion,<note place="margin">Math. 5.</note> we are taught to loue our enemies.) In that they be the ene<g ref="char:EOLhyphen"/>mies of God, therfore we muſt hate them ſo far forth as they be ſo: but theyr perſons we muſt not hate.</p>
+            <p>He therfore that ſhal beare rule, muſt ſo hate them that hate the Lord (in ſuch ſort as I haue ſayd) that hee vſe the ſwoord that God hath geuen him,<note place="margin">Roma. 13.</note> in puniſhing their wickedneſſes: For as ſaynt Paule writeth to the <hi>Romanes,</hi> he is Gods Reuenger. And he muſt doo this earneſtly and diligently: Leaſt he come wythin the reatche of thys curſſe:<note place="margin">Ierem. 48</note> 
+               <hi>Curſſed is euery one that doth the worke of God negligently.</hi>
+            </p>
+            <p>In his praiers to God, the Pro<g ref="char:EOLhyphen"/>phet <hi>Dauid</hi> craued eſpeciallye two thinges: wherof one was that he might be throughly tryed, and the
+<pb facs="tcp:21421:18"/> other, that the Lord would leade him in the way euerlaſting.</p>
+            <p>He therfore that ſhall be choſen, muſt in his prayers beg the ſame, with deſire to be purged of all euil: &amp; that he may be lead by the good ſpirit of God all the dayes of thys his tranſitory lyfe, and in the ende thereof, into that lyfe that neuer ſhall haue ende.</p>
+            <p>
+               <hi>Try me (O God)</hi> ſayth the Pro<g ref="char:EOLhyphen"/>phet, <hi>and ſeeke out the ground of my hart. &amp;c.</hi> In theſe wordes the Pro<g ref="char:EOLhyphen"/>phet ſheweth hym ſelfe to bee wyl<g ref="char:EOLhyphen"/>ling to walke before the Lord hys God, and to haue his waies know<g ref="char:EOLhyphen"/>en vnto him. It is not inough for vs to know that the Lord know<g ref="char:EOLhyphen"/>eth our waies: but we muſt be de<g ref="char:EOLhyphen"/>ſirous that the Lord would haue ſuch regard vnto our wayes, that he ſuffer vs not to walke in anye way of wickednes, but that he doo by ſuch meanes as may pleaſe him,
+<pb facs="tcp:21421:18"/> bring vs to the way euerlaſting, &amp; leade vs therein by his holy ſpirit, that is, in that way, the end wher<g ref="char:EOLhyphen"/>of is euerlaſting lyfe, and that we may continually walke in that way all the dayes of this our tranſito<g ref="char:EOLhyphen"/>ry lyfe, and ſo in the ende thereof finde euerlaſting lyfe.</p>
+            <p>He that ſhal be choſen therefore, muſt learne by the example of <hi>Da<g ref="char:EOLhyphen"/>uid,</hi> to craue this at the handes of God: and ſo ſhall he bee alwayes carefull to walke in the Lordes wayes, that when the Lord ſhall try him, there be no way of wicked<g ref="char:EOLhyphen"/>nes found in hym.</p>
+            <p>In that the Prophet deſireth to be lead in the euerlaſtyng way: he confeſſeth that of him ſelf he is not able to walke therein.<note place="margin">2. Cor. 3.</note> This leſſon therefore is to bee learned (of hym eſpecially that now is to be choſe<g ref="char:cmbAbbrStroke">̄</g>, and of all other generallye) that none is able of hym ſelfe to walke
+<pb facs="tcp:21421:19"/> in this euerlaſting way, but al that ſhall walke therin, muſt be lead by Gods holy ſpirit,<note place="margin">Roma. 8.</note> by whom who ſo is lead, is vndoubtedly the chylde of God. Let vs therefore all pray continually that we may be lead by that ſpirit euermore, that our lyfe being acceptable to him, we maye after the ſame ſhall bee ended, bee happy with him for euer.</p>
+            <p>Thus as the ſhortnes of the time would ſuffer, &amp; as God hath made me able, I haue by occaſio<g ref="char:cmbAbbrStroke">̄</g> of thoſe wordes, which at the beginnyng I read out of the Pſalme. 139. noted thoſe things that I thought meete to be noted in this Auditory, and to be applied to the preſent occaſi<g ref="char:EOLhyphen"/>on of our aſſembling at this tyme.</p>
+            <p>The Lord for his mercies ſake, ſo woorke in all our hartes by hys holy ſpirit, that we printing in me<g ref="char:EOLhyphen"/>mory, and practiſyng in lyfe theſe profitable leſſons, may in our ſeue<g ref="char:EOLhyphen"/>rall
+<pb facs="tcp:21421:19"/> callinges ſo deale in al that we do, that God may in vs be glorifi<g ref="char:EOLhyphen"/>ed, &amp; we in him euerlaſtingly com<g ref="char:EOLhyphen"/>forted, wyth that endles comfort that hee hath prepared for hys. Which comfort he grau<g ref="char:cmbAbbrStroke">̄</g>t that hath prepared it: to whom be all honor &amp; glory, world without end. <hi>Amen.</hi>
+            </p>
+            <div type="appendix">
+               <head>¶ <hi>An Appendix added</hi> vnto this Sermon.</head>
+               <p>THus at the requeſt of a friend (wiſhing the co<g ref="char:cmbAbbrStroke">̄</g>mon commo<g ref="char:EOLhyphen"/>dity) I haue (as nygh as I could) committed my Sermon to writing, in ſuch order, and (as my memorye would ſerue me) in ſuch woordes, as I dyd vtter it in the hearyng of the Lord Maior and his Brethren the Aldermen, and the whole ſtate of the City of Lon<g ref="char:EOLhyphen"/>don, being then (according to their yearelye order) aſſembled to chuſe
+<pb facs="tcp:21421:20"/> one to be their Maior for the yere then following.</p>
+               <p>And becauſe the text that I haue handled, may as well be applyed to al other elections, as to that which then was to bee made: I haue thought meete (in the ſetting out of this my Sermo<g ref="char:cmbAbbrStroke">̄</g> in print) to adde this Appendix, wherin I haue ap<g ref="char:EOLhyphen"/>plyed the wordes of the Prophet, generally to all elections: as well of ſuch as ſhall ſerue in the Eccleſi<g ref="char:EOLhyphen"/>aſticall gouernment, as in the Ci<g ref="char:EOLhyphen"/>uile. Notyng the duties both of them to whom it appartayneth to chuſe, and alſo of them that ſhall be choſen to anye gouernment in ey<g ref="char:EOLhyphen"/>ther ſtate. And firſt of them to who<g ref="char:cmbAbbrStroke">̄</g> it belongeth to chuſe.</p>
+               <p>The perſons that, in any order, haue to geue conſent to the choyſe of any that ſhall ſerue in any pub<g ref="char:EOLhyphen"/>like calling, muſt firſt conſyder the place that is to be ſupplied by hym
+<pb facs="tcp:21421:20"/> that is to bee choſen: wyth a due conſideratio<g ref="char:cmbAbbrStroke">̄</g> of thoſe qualities that muſt be in hym that ſhall be able to do the duty that belongeth to that place. And then their care muſt be, to fynde out ſuch one as hath in hym thoſe qualities.</p>
+               <p>And if any ſhal offer them ſelues to take vpon them the place, and en<g ref="char:EOLhyphen"/>able them ſelues thereunto: they are to bee narrowlye looked vnto, and thorowly tryed before they be admitted, becauſe they do by offe<g ref="char:EOLhyphen"/>ring them ſelues, geue occaſion to be ſuſpected of ſome deſire, eyther to be aduaunced, or els to be enrit<g ref="char:EOLhyphen"/>ched, which deſire is moſt pernici<g ref="char:EOLhyphen"/>ous in hym that ſhall ſerue in any publike calling. <hi>Iſocrates</hi> (an Hea<g ref="char:EOLhyphen"/>then man) inſtructyng <hi>Demonicus</hi> (a yong Gentleman, that was like to be called to publike office) ſayth thus vnto hym: <hi>A publicis functio<g ref="char:EOLhyphen"/>nibus, no<g ref="char:cmbAbbrStroke">̄</g> ditior ſed glorioſior diſcedas.</hi>
+                  <pb facs="tcp:21421:21"/> Depart not from a publike office, being more ritch, but more honou<g ref="char:EOLhyphen"/>rable, then when thou tookeſt it.</p>
+               <p>But if any ſhall by wordes, wri<g ref="char:EOLhyphen"/>ting, giftes, or anye other ambiti<g ref="char:EOLhyphen"/>ons meane, ſeeke to be admitted: the ſame hath made him ſelfe alto<g ref="char:EOLhyphen"/>gether vnmeete to be admitted, al<g ref="char:EOLhyphen"/>though there be in him as much as may be in a ma<g ref="char:cmbAbbrStroke">̄</g>, otherwiſe to make him meete: For ſuch one beyng in place, ca<g ref="char:cmbAbbrStroke">̄</g>not vſe any good gift that is in hym to anye other ende then that, whych moued hym ſo to ſeeke the place.</p>
+               <p>They therfore that haue to geue conſent in elections, muſt not bee ſubiect to their owne corrupt affec<g ref="char:EOLhyphen"/>tions, ſo that they be lead by them to chuſe or admit anye in reſpect of conſanguinitie, affinity, friendſhip, or friendly familiarity: neither may they ſtand in awe of any mans per<g ref="char:EOLhyphen"/>ſon, &amp; ſo through feare of dyſplea<g ref="char:EOLhyphen"/>ſure,
+<pb facs="tcp:21421:21"/> or hope of ſome friendly plea<g ref="char:EOLhyphen"/>ſure, be enduced to chuſe or admyt ſuch one as they do not know to be meete for the place that they doo chuſe or admit him vnto.</p>
+               <p>They muſt haue ſtyl before their eyes, the Maieſtye of God, whoſe Miniſters they are, that occupy a<g ref="char:EOLhyphen"/>ny publike place: And therefore in chuſyng or admittyng them that ſhall ſupply any ſuch place, the chu<g ref="char:EOLhyphen"/>ſers and admitters muſt do all that they do in the feare of Gods Ma<g ref="char:EOLhyphen"/>ieſtye, euen as they that know &amp; do not forget, that they ſhal anſwer to him for al that they ſhall do therin.</p>
+               <p>It is meete therefore, that if the election or admiſſion be to be made by many, the ſame do (before they proceede to election or admiſſion) ioyne them ſelues together in pub<g ref="char:EOLhyphen"/>like praier, not of cuſtome onely, or ſuperſticiouſly, but with harty de<g ref="char:EOLhyphen"/>ſire to obtayne at Gods hand hys
+<pb facs="tcp:21421:22"/> holy ſpirite to direct them ſo, that they may finde out &amp; conſent vpon ſuch one, as may be both able and willing ſo to ſerue in the place that he ſhall be choſen vnto, that Gods glory may be ſet forth in al that he ſhall do in that place.</p>
+               <p>After this ſort did y<hi rend="sup">e</hi> Apoſtels be<g ref="char:EOLhyphen"/>haue the<g ref="char:cmbAbbrStroke">̄</g> ſelues, when thei thought it meete to chuſe one to ſupply the place of Iudas<g ref="char:punc">▪</g>
+                  <note place="margin">Actes. 1.</note> (which had bene one of them, but was by tranſgreſ<g ref="char:EOLhyphen"/>ſion fallen from hys place, and be<g ref="char:EOLhyphen"/>came a traitour to his Maiſter, for which wyckednes hee was ſo left to hym ſelfe, that hee hanged hym ſelfe, and by the guſhing out of hys bowels he was made an horryble example to all traytours) they a<g ref="char:EOLhyphen"/>greed vpon twoo whych had bene conuerſant with them (and there<g ref="char:EOLhyphen"/>fore were well knowen vnto them) and becauſe they could not diſcerne which of the two was moſt meete
+<pb facs="tcp:21421:22"/> for the place, they prayed to God, and caſting lots, thei beſought God that the lot might light vpon hym, whom God knew to be moſt meete.</p>
+               <p>And if the election or admiſſion, do belong to any one perſon, then it is meete that that perſon, do not onely make earneſt and harty prai<g ref="char:EOLhyphen"/>ers to God in his own perſon, that in the choyſe that he ſhall make, he may be directed by Gods holy ſpi<g ref="char:EOLhyphen"/>rite, to make ſuch choiſe as may be to Gods glorye: but that the ſame do deſire that as many as may take either commoditye or hurt by the choiſe that he ſhall make, would in harty prayers vnto God beg, that in chuſing his hart may be directed by Gods holy ſpirite, to chuſe ſuch one as in all pointes may be meete for the place that he ſhall be choſen vnto.</p>
+               <p>And whether the election belong to one or to many, this one thyng
+<pb facs="tcp:21421:23"/> muſt be diligently looked vnto by the Electours, that neyther they them ſelues bee corrupted wyth bribes, neither enduced by the per<g ref="char:EOLhyphen"/>ſwaſion of anye that is bribed, to make choyſe of any, in whom they do not ſee thoſe properties that I haue before noted out of the fyft and ſecond bookes of Moſes.</p>
+               <p>For he that is not a brother (that is to ſaye,<note place="margin">Deut. 18.</note> a true Chriſtian) but a Papiſt, or an heretike of any maner ſect: the ſame muſt bee ſo hated, that he be not choſen to ſupply any place in any publike miniſtration.</p>
+               <p>In like maner, he that is not a man of ſuch wyſdome and actiuity as is required in him that ſhal ſup<g ref="char:EOLhyphen"/>ply that place that is to be ſupply<g ref="char:EOLhyphen"/>ed,<note place="margin">Exod. 17.</note> and he in whom the ſygnes of Gods feare do not appeare: or that is not a true man, nor one that ha<g ref="char:EOLhyphen"/>teth couetouſnes: muſt be ſo hated of them or him, to whom it apper<g ref="char:EOLhyphen"/>taineth
+<pb facs="tcp:21421:23"/> to chuſe or admit, that hee be not choſen or admitted by them, but refuſed, as a perſon vnmeete to ſupply ſuch a place. And thus much touching them to whom it belong<g ref="char:EOLhyphen"/>eth to elect or admit anye to ſerue in the common wealth in any pub<g ref="char:EOLhyphen"/>licke callyng.</p>
+               <p>The perſons that ſhal be elected or admitted, muſt firſt conſider in them ſelues, whether they be ſuch in deede, as they be ſuppoſed to be, and whether thoſe qualities be in them that be required in thoſe per<g ref="char:EOLhyphen"/>ſons that ſhould ſupply ſuch places as they be called or admitted vnto. And if they ſhall not fynde them ſelues to be ſuch, or that the quali<g ref="char:EOLhyphen"/>ties required be not in them: then muſt they (if they wyll not prouoke the heauye wrath of God agaynſt them ſelues) either ſeeke by earneſt and continuall praiers to God, and by all other meanes to bee made
+<pb facs="tcp:21421:24"/> ſuch, and to obtaine thoſe qualities that they lacke: or els vtterly refuſe to take vpon them to ſupply a place for which they knowe them ſelues to be ſo vnmeete.</p>
+               <p>And if (when they haue exami<g ref="char:EOLhyphen"/>ned them ſelues) they ſhall fynde, that they bee in all poyntes meete for the places that they bee choſen or admitted to: they muſt in the feare of God, conſider what dutye thei haue to do in theſe places, and conſecrate them ſelues to bee occu<g ref="char:EOLhyphen"/>pied continually in doing thoſe du<g ref="char:EOLhyphen"/>ties, and not onely begge at Gods hand his holy ſpirite to direct and ſtrengthen the<g ref="char:cmbAbbrStroke">̄</g> therin, but earneſtly deſire, that all the people, amongeſt whom they are appointed to ſerue, doo in all their prayers commende them to God, wythout whoſe con<g ref="char:EOLhyphen"/>duct &amp; ayde they cannot bee able to diſcharge any part of their duty.</p>
+               <p>And according to the example of
+<pb facs="tcp:21421:24"/> the Prophet <hi>Dauid,</hi> theſe men muſt hate all them that hate the Lord, that is, all ſuch as geue ouer them ſelues to ſerue ſyn: For thoſe per<g ref="char:EOLhyphen"/>ſons do loue ſynne, and none can loue ſyn, but the ſame muſt needes hate the Lord who hateth ſynne.</p>
+               <p>With ſuch hatred therfore as the Lord hateth ſyn and ſuch ſinners, the Prophet hated them, that in his daies were ſuche ſynners, and therfore hated the Lord. And eue<g ref="char:EOLhyphen"/>rye one that is elected or admitted to ſerue in anye publike place, muſt in lyke maner hate all them that he ſhall ſee to be ſuch ſynners.</p>
+               <p>If his calling be Eccleſiaſticall, he muſt reprehend, rebuke, and en<g ref="char:EOLhyphen"/>ſtruct them: And if that wyll not helpe, he muſt lay before them the horrible threatnynges of Gods wrath againſt them. And thys he muſt do (as <hi>Dauid</hi> dyd) without a<g ref="char:EOLhyphen"/>ny feare, fauour, hatred, or other
+<pb facs="tcp:21421:25"/> fleſhly reſpect, that they might bee moued to haue towards their per<g ref="char:EOLhyphen"/>ſons. They muſt alwaies haue in mynde whoſe miniſters they be, &amp; whoſe worke it is that they haue in hand. And they muſt neuer for<g ref="char:EOLhyphen"/>get, that who ſo doth the Lordes worke negligently, is accurſſed of the Lord.</p>
+               <p>More ouer, they muſt ſtyll beare in mynde the woordes which the Lord ſpake to <hi>Ezechiel</hi> the Prophet ſaying thus:<note place="margin">Ezechi. 3.</note> 
+                  <hi>Take good heede to the wordes of my mouth, and geue them warning at my commaundement. If I ſay vnto thee concernyng the vngodly man, that (without doubt) he muſt dye: and thou geueſt him no warning, nor ſpeakeſt vnto hym that hee maye turne from his euyll waye, and ſo lyue: then ſhall the ſame vngodly man dye in his own vnrighteouſnes, but his bloud wyl I require of thine hand.</hi>
+               </p>
+               <p>Yea, he muſt alwaies be mynd<g ref="char:EOLhyphen"/>full
+<pb facs="tcp:21421:25"/> of the wordes of Paule to Ti<g ref="char:EOLhyphen"/>mothie, where he ſaith thus: <hi>A Bi<g ref="char:EOLhyphen"/>ſhop,</hi> that is a Church Miniſter, <hi>muſt be without fault. &amp;c.</hi> And of the wordes of the ſame Apoſtle to the Elders of <hi>Epheſus,</hi> when hee ſayth thus: <hi>Take heede to your ſelues and to the whole flocke, wherein the holye Ghoſt hath appointed you to bee ouer<g ref="char:EOLhyphen"/>ſears, to gouerne the Church of God, which hee hath bought with his owne bloud.</hi>
+               </p>
+               <p>And aboue all thinges, he muſt take heede of that peſtilent roote couetouſnes, whych if it doo once take hold in his hart, it wyll bryng forth ſuch fruit, as wyl turne al the wholſome wyne of hys good doc<g ref="char:EOLhyphen"/>trine, to moſt pernicious poyſon. For he ſhall neuer be ſatiſfied with liuing. Yea, though he haue a great deale to much, wyth more charge then many more able then hee can be able to diſcharge: yet wyl he ſtil
+<pb facs="tcp:21421:26"/> deſire more, for that deſire of more can neuer ſaye, inough, but ſtyll it cryeth for more.</p>
+               <p>Out of this peſtilent roote ſprang all the Popes Diſpenſations, hys Vnions, his Pluralities, hys Tri<g ref="char:EOLhyphen"/>alities, and his Totquots. His diſ<g ref="char:EOLhyphen"/>penſation of <hi>Non reſidens,</hi> his Im<g ref="char:EOLhyphen"/>propriations, and what ſoeuer els hath bene deuiſed, for the augmen<g ref="char:EOLhyphen"/>ting of the lyuing of his Prelates.</p>
+               <p>The Miniſter of Chriſtes church therefore, muſt neuer forget theſe wordes which Paule wrote to Ti<g ref="char:EOLhyphen"/>mothe:<note place="margin">1. Timo. 6</note> 
+                  <hi>Thou man of God, flee from theſe thinges, and followe thou righte<g ref="char:EOLhyphen"/>ouſnes, faith, loue, pacience, and meeke<g ref="char:EOLhyphen"/>nes.</hi> And he muſt print in memorye the wordes of Chriſt, which ſaith: <hi>Firſt ſeeke the kingdome of God, and the righteouſnes thereof,</hi>
+                  <note place="margin">Math. 6.</note> 
+                  <hi>and all theſe thinges ſhall be miniſtred vnto you.</hi>
+               </p>
+               <p>To conclude, he muſt haue writ<g ref="char:EOLhyphen"/>ten in his hart the words of Chriſt
+<pb facs="tcp:21421:26"/> to Peter, whych are theeſe: <hi>Peter,</hi>
+                  <note place="margin">Iohn. 21.</note> 
+                  <hi>doeſt thou loue me? Feede my lambes, feede my ſheepe, feede my ſheepe.</hi> And the wordes of the ſame Peter to al his fellow Elders, which are theſe: Feede the flocke of Chriſt as much as lyeth in you,<note place="margin">1. Peter. 5.</note> takyng the ouer<g ref="char:EOLhyphen"/>ſyght of them, not as compelled thereto, but wyllingly after a godly ſort, not for the deſire of filthye lu<g ref="char:EOLhyphen"/>cre, but of a good mynde: not as though ye were Lordes ouer the Pariſhes, but that ye be an enſam<g ref="char:EOLhyphen"/>ple to the flock, and that with good wyll. &amp;c.</p>
+               <p>But if his callyng be Ciuile, hee muſt vſe the ſwoorde in puniſhyng ſynne accordyng to the lawes of his Countrye: remembring alway that hee is appointed by God hym<g ref="char:EOLhyphen"/>ſelfe,<note place="margin">Roma. 13.</note> to be the reuenger of his qua<g ref="char:EOLhyphen"/>rell vpon earth. And therefore hee muſt euer be myndfull of the curſſe that Ieremie hath pronounced a<g ref="char:EOLhyphen"/>gainſt
+<pb facs="tcp:21421:27"/> all that woorke the Lordes woorke negligently.<note place="margin">Ierem. 48</note>
+               </p>
+               <p>He muſt alſo be myndfull of the wordes of Eſay, which ſayth of the Rulers of Ieruſalem in this wyſe: Thy Princes are the companions of theeues,<note place="margin">Eſay. 1.</note> for they loue brybes, and they hunt after rewards. And the conſideration of theſe wordes muſt moue him to hate all maner of briberye and bribers, as haters of God.</p>
+               <p>Moreouer hee muſt not forget the wordes of Moſes, who ſayth thus: Bribes do blynde the eyes of the wyſe,<note place="margin">Deut. 16.</note> and peruert the ſentence of the ryghteous.<note place="margin">Exod. 23.</note> And in iudge<g ref="char:EOLhyphen"/>ment he muſt neither feare the face of the mightye, nor pity the caſe of the myſerable: for iudgement is the Lordes.</p>
+               <p>Thus muche I haue thought meete to adde (in order of Appen<g ref="char:EOLhyphen"/>dix) to that Sermo<g ref="char:cmbAbbrStroke">̄</g> which I made
+<pb facs="tcp:21421:27"/> the .29. of Septe<g ref="char:cmbAbbrStroke">̄</g>ber .1574. as afore in y<hi rend="sup">e</hi> title: Beſeching the almighty, in mercy towards his Church, to moue the mindes of his reuengers vpon earth, that they maye bende them ſelues in al that they are able to reforme firſt in them ſelues, and after in all other, all maner of cor<g ref="char:EOLhyphen"/>ruptio<g ref="char:cmbAbbrStroke">̄</g>s in elections, both of church Miniſters, &amp; of ciuill officers alſo.</p>
+               <p>So maye we hope to ſee all cor<g ref="char:EOLhyphen"/>ruption baniſhed out of all maner miniſtration, and Gods glory ad<g ref="char:EOLhyphen"/>uaunced therby: which he grau<g ref="char:cmbAbbrStroke">̄</g>t for his mercies ſake, to whom be all honour and glory for euer. <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:21421:28"/>
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted <hi>at London by Iohn</hi> Aw<g ref="char:EOLhyphen"/>deley, dwellyng in little Brittaine ſtreete with<g ref="char:EOLhyphen"/>out Alderſgate.</p>
+            <p>1575</p>
+            <p>The .7. day of <hi>Ianuary.</hi>
+            </p>
+            <pb facs="tcp:21421:28"/>
+         </div>
+      </back>
+   </text>
+</TEI>
